@@ -1,0 +1,47 @@
+/*Cabeãlho do Site*/
+#navbar-fundo{
+    background: #2196F3;
+}
+#navbar-title{
+    margin-left: 30px;
+    margin-right: 40px;
+    font-weight: bold;
+}
+#menu_superior_direito{
+    height: auto;
+    width: 190px;
+    margin-right: 15px;
+    margin-left: auto;
+}
+
+/*Corpo do Site*/
+#corpo-geral{
+    background: #ececec;
+    /*background: #F5F5F5;*/
+}
+
+
+/*Menu lateral*/
+#menu_lateral_box{
+    background-color: white;
+    margin-right: 30px;
+    padding-top: 10px;
+    box-shadow: 0px 0px 5px rgb(136, 136, 136);
+}
+#conteudo_direito_box{
+    box-shadow: 0px 0px 5px rgb(136, 136, 136);
+}
+.menu_lateral_btn{
+    width: 100%;
+    margin-bottom: 7px;
+}
+html, body { margin:0; height: 100%;}
+
+
+/*Pagina Clientes*/
+#Cabecalho_pagina_clientes{
+    margin: 0px;
+    width: 100%;
+    height: 43px;
+    background-color: #39A2DB;
+}
